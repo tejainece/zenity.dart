@@ -1,7 +1,6 @@
 # zenity
 
-Desktop UI library to show simple dialog boxes and forms. Uses Zenity under-the-hood
-to display dialogs.  
+Desktop UI library to show simple dialog boxes and forms. Uses Zenity under-the-hood.  
 
 The following dialogs are supported:
 

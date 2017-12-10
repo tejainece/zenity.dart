@@ -1,8 +1,8 @@
 name: zenity
-description: A starting point for Dart libraries or applications.
-version: 0.0.1
-#homepage: https://www.example.com
-#author: teja <email@example.com>
+description: Desktop UI library to show simple dialog boxes and forms. Uses Zenity under-the-hood.
+version: 1.0.0
+homepage: https://github.com/tejainece/zenity.dart
+author: Ravi Teja Gudapati <tejainece@gmail.com>
 
 environment:
   sdk: '>=1.20.1 <2.0.0'
